@@ -1,0 +1,36 @@
+/* body {
+    background-color: red;
+} */
+
+td {
+    background-color: rgb(255, 115, 0);
+    text-align: center;
+    border-color: teal;
+    border-style: solid;
+}
+
+table {
+    width: 500px;
+    height: 500px;
+    padding: auto;
+        font-size: 1.4em;
+    place-content: center;
+    margin: auto;
+    
+}
+
+body {
+    background-color: lightgray;
+    text-align: center;
+}
+
+
+
+
+.restart {
+    color: rgb(255, 251, 0);
+    padding: auto;
+    background-color: seagreen;
+    
+    
+}
